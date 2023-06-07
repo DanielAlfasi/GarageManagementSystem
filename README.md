@@ -1,8 +1,8 @@
-Garage Management System
+# Garage Management System 
 
 This project is a garage management system implemented in C#. It allows for the registration, management, and servicing of vehicles in a garage.
 
-Features
+## Features
 
 Register a new vehicle in the garage.
 Display a list of license numbers of all the vehicles in the garage.
@@ -14,7 +14,7 @@ Charge an electric vehicle.
 Display full details of a specific vehicle.
 Classes
 
-The project consists of several classes:
+## The project consists of several classes:
 
 Vehicle: An abstract class that represents a vehicle in the garage.
 Car, Motorcycle, Truck: Classes that inherit from Vehicle and represent specific types of vehicles.
@@ -34,10 +34,10 @@ Usage
 
 Follow the prompts in the console application to manage the vehicles in the garage.
 
-Contributing
+### Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-License
+## License
 
 MIT
