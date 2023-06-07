@@ -26,6 +26,7 @@ RegisteredVehicle: A class that represents a vehicle registered in the garage.
 IPropertyHolder: An interface that is implemented by Vehicle and GarageCard.
 Installation
 
+## Diagram of the design
 ![Diagram](images/chart.drawio.png)
 
 Clone the repository: git clone https://github.com/yourusername/GarageManagementSystem.git
